@@ -23,8 +23,8 @@
     "tap-spec": "^2.2.0",
     "tape": "^3.4.0"
   },
-  "optionalDependencies": {
-    "phantomjs": "^1.9.16"
+  "dependencies": {
+    "phantomjs":"git://github.com/zeevl/phantomjs2.git"
   },
   "repository": {
     "type": "git",
